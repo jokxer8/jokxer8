@@ -28,6 +28,16 @@ Me enfoco en el desarrollo de software, análisis de datos, soporte técnico y g
 **Productividad e IA:** Office, ChatGPT, Claude, Canva, Gamma  
 **Soporte técnico:** mantenimiento de laptops y desktop, instalación, organización de equipos y respaldo operativo
 
+## Caso de estudio: Transformación Digital TagMalco
+
+**Rol:** Dirección del proyecto y coordinación de implementación tecnológica.
+
+Diagnóstico tecnológico, migración de autoridad DNS a Cloudflare, validación de continuidad de servicios y documentación del proyecto en GitHub. La construcción de la nueva web corresponde a una etapa posterior.
+
+🟢 Diagnóstico y migración DNS realizados · 🟡 Etapa de desarrollo web en progreso
+
+[Consultar el caso de estudio público de TagMalco](https://github.com/tagmalco/caso-estudio-transformacion-digital)
+
 ## Proyectos destacados en construcción
 
 - Plataforma universitaria IPES: módulos de seguridad, usuarios, admisión y registro académico.
