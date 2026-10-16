@@ -17,7 +17,7 @@ Desarrollo de software, análisis de datos y coordinación de proyectos tecnoló
 | Proyecto | Qué encontrarás | Tecnologías y enfoque |
 |---|---|---|
 | [Soluciones de Programación Académica](https://github.com/jokxer8/soluciones-programacion-academica) | Seis materias organizadas por actividad, código, desarrollo y evidencia de origen. | C, C#, ensamblador, SML y SQL; trazabilidad y documentación. |
-| [Sistema de Reservas de Hotel](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/05-bases-de-datos/hotel-reservas-proyecto-final) | Proyecto final grupal: clientes, habitaciones, reservas, facturación, roles y reportes. Compilación Windows y 65 pruebas SQL verificadas. | Windows Forms, .NET Framework, SQL Server y ADO.NET. |
+| [Sistema de Reservas de Hotel](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/05-bases-de-datos/hotel-reservas-proyecto-final) | Proyecto final grupal: clientes, habitaciones, reservas, facturación, roles y reportes. Compilación Windows y 79 pruebas SQL verificadas, con migración de contraseñas a PBKDF2. | Windows Forms, .NET Framework, SQL Server y ADO.NET. |
 | [Gestión de países en C](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-fundamentos-sistemas-computacionales/proyecto-final-paises) | Lista doblemente enlazada, carga de 227 registros CSV, búsqueda, ordenamiento y comprobaciones de memoria y enlaces. | C17, estructuras dinámicas y archivos. |
 | [Transformación Digital TagMalco](https://github.com/tagmalco/caso-estudio-transformacion-digital) | Caso de estudio: diagnóstico tecnológico, migración de autoridad DNS a Cloudflare y documentación del proyecto. | Coordinación de implementación, continuidad de servicios y transformación digital. |
 
