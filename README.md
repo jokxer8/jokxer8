@@ -16,16 +16,17 @@ En este perfil comparto lo que voy construyendo durante mi formación: ejercicio
 
 ## Mi recorrido académico
 
-El [portafolio](https://github.com/jokxer8/soluciones-programacion-academica) reúne **seis materias y 39 actividades**. Las organicé siguiendo el recorrido desde la representación de datos y los primeros programas hasta el diseño de algoritmos y las aplicaciones con bases de datos.
+El [portafolio](https://github.com/jokxer8/soluciones-programacion-academica) reúne **siete materias y 46 actividades**. Las organicé siguiendo el recorrido desde la representación de datos y los primeros programas hasta el diseño de algoritmos y las aplicaciones con bases de datos.
 
 | Materia | Qué trabajé |
 |---|---|
 | [00 · Fundamentos de Sistema Computacionales](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-fundamentos-sistemas-computacionales) | Bases numéricas, C, ensamblador, memoria dinámica y estructuras enlazadas. |
-| [01 · Fundamentos de Programación](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/01-fundamentos-programacion) | Lógica, decisiones, ciclos, arreglos, cadenas y métodos en C#. |
-| [02 · Programación Orientada a Objetos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/02-programacion-orientada-a-objetos) | Clases, encapsulación, composición, herencia, polimorfismo y archivos. |
-| [03 · Diseño y Análisis de Algoritmos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/03-diseno-y-analisis-de-algoritmos) | Búsqueda, ordenamiento, recursión, programación dinámica y análisis de complejidad. |
-| [04 · Fundamentos de Programación con SML](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/04-fundamentos-programacion-sml) | Programación funcional, cálculo lambda, inferencia de tipos, módulos y secuencias. |
-| [05 · Bases de Datos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/05-bases-de-datos) | Modelado, normalización, consultas SQL y un proyecto de reservas de hotel. |
+| [01 · Introducción a la Programación](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/01-introduccion-programacion) | Algoritmos, diagramas de flujo y primeros programas C++ con cálculos, ciclos y texto. |
+| [02 · Fundamentos de Programación](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/02-fundamentos-programacion) | Lógica, decisiones, ciclos, arreglos, cadenas y métodos en C#. |
+| [03 · Programación Orientada a Objetos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/03-programacion-orientada-a-objetos) | Clases, encapsulación, composición, herencia, polimorfismo y archivos. |
+| [04 · Diseño y Análisis de Algoritmos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/04-diseno-y-analisis-de-algoritmos) | Búsqueda, ordenamiento, recursión, programación dinámica y análisis de complejidad. |
+| [05 · Fundamentos de Programación con SML](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/05-fundamentos-programacion-sml) | Programación funcional, cálculo lambda, inferencia de tipos, módulos y secuencias. |
+| [06 · Bases de Datos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/06-bases-de-datos) | Modelado, normalización, consultas SQL y un proyecto de reservas de hotel. |
 
 Cada actividad tiene una explicación y una guía de desarrollo, junto con el código o los documentos que le corresponden. La [guía de lectura](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/GUIA-DE-LECTURA.md) explica la notación compartida, y la [lista de pendientes](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/PENDIENTES.md) recoge lo que falta por ampliar o comprobar.
 
@@ -33,9 +34,15 @@ Cada actividad tiene una explicación y una guía de desarrollo, junto con el c�
 
 ## Proyectos que puedes explorar
 
+### Primeros algoritmos en C++
+
+[Ver materia](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/01-introduccion-programacion) · [Validación](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/01-introduccion-programacion/VALIDACION.md)
+
+Siete actividades de Introducción a la Programación que reúnen algoritmos, diagramas y entregas individuales y grupales. Incluyen cinco programas C++ con **32 casos de prueba correctos en Windows**. Conservo las entregas y explico las diferencias con las versiones compilables.
+
 ### Sistema de Reservas de Hotel
 
-[Ver proyecto](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/05-bases-de-datos/hotel-reservas-proyecto-final) · [Pruebas funcionales](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/05-bases-de-datos/hotel-reservas-proyecto-final/docs/PRUEBAS-FUNCIONALES.md) · [Tablero](https://github.com/users/jokxer8/projects/1)
+[Ver proyecto](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/06-bases-de-datos/hotel-reservas-proyecto-final) · [Pruebas funcionales](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/06-bases-de-datos/hotel-reservas-proyecto-final/docs/PRUEBAS-FUNCIONALES.md) · [Tablero](https://github.com/users/jokxer8/projects/1)
 
 Proyecto final realizado en equipo con **C#, Windows Forms, .NET Framework 4.8 y SQL Server**. Integra clientes, habitaciones, reservas, servicios, facturación, roles y reportes.
 
