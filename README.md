@@ -6,7 +6,7 @@
 ![Formación](https://img.shields.io/badge/Formaci%C3%B3n-PUCMM-purple)
 ![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Rep%C3%BAblica%20Dominicana-brightgreen)
 
-Estudio Ingeniería en Ciencias de la Computación en la **Pontificia Universidad Católica Madre y Maestra (PUCMM)**. Me interesa desarrollar software, trabajar con datos y participar en proyectos que conecten la tecnología con necesidades concretas.
+Estudio Ingeniería en Ciencias de la Computación en la **Pontificia Universidad Católica Madre y Maestra (PUCMM)**. Mi experiencia combina desarrollo de software, análisis y organización de datos, coordinación de proyectos tecnológicos y soporte técnico. Me interesa conectar lo que aprendo con necesidades concretas de las instituciones y las personas.
 
 En este perfil comparto lo que voy construyendo durante mi formación: ejercicios, proyectos y explicaciones de las decisiones que tomo al resolverlos. También reúno experiencia en soporte técnico, investigación y coordinación de proyectos institucionales.
 
@@ -39,6 +39,8 @@ Cada actividad tiene una explicación y una guía de desarrollo, junto con el c�
 [Ver materia](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/01-introduccion-programacion) · [Validación](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/01-introduccion-programacion/VALIDACION.md)
 
 Siete actividades de Introducción a la Programación que reúnen algoritmos, diagramas y entregas individuales y grupales. Incluyen cinco programas C++ con **32 casos de prueba correctos en Windows**. Conservo las entregas y explico las diferencias con las versiones compilables.
+
+También ejecuté el [diagrama del triángulo en RAPTOR](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/01-introduccion-programacion/triangulo-rectangulo/PRUEBAS-RAPTOR.md): documenté el error de la entrega y comprobé la corrección con siete casos numéricos y una ejecución con entrada manual.
 
 ### Sistema de Reservas de Hotel
 
@@ -82,7 +84,7 @@ Estas son las herramientas que utilizo en mis estudios y en otras actividades de
 
 | Área | Tecnologías y herramientas |
 |---|---|
-| Programación | C, C++, C#, SQL, SML, HTML, Visual Studio y UML. |
+| Programación | C, C++, C#, SQL, SML, HTML, ASP.NET, Angular, Visual Studio y UML. |
 | Bases de datos y análisis | SQL Server, Microsoft Access, Power BI y Excel avanzado. |
 | Organización y documentación | GitHub, Draw.io, Microsoft Project, Xmind y Notion. |
 | Productividad | Office, Canva, Gamma y herramientas de IA como apoyo al trabajo. |
@@ -90,20 +92,31 @@ Estas son las herramientas que utilizo en mis estudios y en otras actividades de
 
 ## Experiencia
 
-**Ministerio de Interior y Policía** — Encargado de Logística en el área de Reforma Educativa Policial.
+**Ministerio de Interior y Policía** — Encargado de Logística en el área de Reforma Educativa Policial, desde febrero de 2022.
 
-**PUCMM · Centro de Estudios Caribeños** — Asistente de investigaciones y soporte en data.
+Apoyo actividades de la reforma con trabajo técnico, logístico y administrativo. He participado en la organización de tres eventos de alto nivel y en la recopilación y organización de más de 1,000 documentos para facilitar su consulta, seguimiento y uso en informes.
 
-Estas experiencias me han permitido trabajar con información, organizar documentación y coordinar actividades con otras personas, además de atender necesidades de soporte técnico.
+**PUCMM · Centro de Estudios Caribeños** — Asistente de Investigaciones, desde 2022.
+
+Colaboro con la Dra. Mukien Sang Ben en la recopilación, depuración y organización de información, así como en la elaboración de gráficos y diagramas. He participado en investigaciones sobre la presencia china en el Caribe y en proyectos de historia institucional de INFOTEP, ISFODOSU y el Tribunal Constitucional.
+
+## Coordinación y comunidad académica
+
+En el proyecto de plataforma universitaria del **IPES**, mi rol es la dirección y coordinación: organización funcional, seguimiento de fases, coordinación con especialistas y validación de necesidades de Admisión y Registro. El proyecto utiliza C#/ASP.NET y Angular. Mi CV registra la implementación de seguridad, usuarios y admisión, con registro académico todavía en desarrollo; ese estado no se presenta como una implementación terminada de toda la plataforma.
+
+Fui encargado de Logística del **Comité Estudiantil de Ciencias de la Computación de PUCMM (2025–2026)**. Apoyé actividades académicas y la participación de 27 estudiantes en el CodeJam de PUCMM Santiago, redacté los estatutos del comité e impulsé iniciativas de comunicación y comunidad estudiantil.
 
 ## Otras líneas de trabajo
 
-- Plataforma universitaria IPES: seguridad, usuarios, admisión y registro académico.
 - Gestión de archivos PDF mediante palabras clave.
 - Dashboards de análisis de datos en Power BI.
 - Desarrollo web de TagMalco como continuación del diagnóstico y la migración DNS.
 
 Comparto estas líneas como parte de mis intereses y trabajo en desarrollo. Los proyectos que cuentan con documentación pública están enlazados en las secciones anteriores.
+
+## Formación complementaria e idiomas
+
+Mi formación complementaria incluye inteligencia artificial y seguridad con Huawei ICT Academy, UML con Universidad de los Andes/Coursera, C# con SoloLearn y cursos de ofimática, logística y gestión de calidad. También cuento con formación en artes gráficas y fotografía en INFOTEP. Hablo español nativo e inglés intermedio.
 
 ---
 
