@@ -132,4 +132,4 @@ Mi formación complementaria incluye inteligencia artificial y seguridad con Hua
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jokxer-blue)](https://www.linkedin.com/in/jokxer/)
 [![Correo](https://img.shields.io/badge/Correo-Contactar-lightgrey)](mailto:kelvin.del.castillo@gmail.com)
 
-**kelvin.del.castillo@gmail.com**
+**kelvincesar@jokxer.dev**
