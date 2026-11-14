@@ -47,7 +47,7 @@ Mi sitio personal ya está disponible en [jokxer.dev](https://jokxer.dev/). Se e
 
 Siete actividades de Introducción a la Programación que reúnen algoritmos, diagramas y entregas individuales y grupales. Incluyen cinco programas C++ con **32 casos de prueba correctos en Windows**. Conservo las entregas y explico las diferencias con las versiones compilables.
 
-También ejecuté el [diagrama del triángulo en RAPTOR](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/01-introduccion-programacion/triangulo-rectangulo/PRUEBAS-RAPTOR.md): documenté el error de la entrega y comprobé la corrección con siete casos numéricos y una ejecución con entrada manual.
+También ejecuté el [diagrama del triángulo en RAPTOR](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/00-introduccion-a-la-algoritmia/triangulo-rectangulo/PRUEBAS-RAPTOR.md): documenté el error de la entrega y comprobé la corrección con siete casos numéricos y una ejecución con entrada manual.
 
 ### Sistema de Reservas de Hotel
 
@@ -65,9 +65,9 @@ Una aplicación en **C** que carga un conjunto histórico de **227 registros** d
 
 ### Ejercicios equivalentes en C y ensamblador
 
-[Ver ejercicios](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-fundamentos-sistemas-computacionales/c-y-ensamblador) · [Resultados en Linux](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/02-fundamentos-sistemas-computacionales/PRUEBAS-LINUX.md)
+[Ver ejercicios](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/02-fundamentos-sistemas-computacionales/c-y-ensamblador) · [Resultados en Linux](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/02-fundamentos-sistemas-computacionales/PRUEBAS-LINUX.md)
 
-Doce ejercicios resueltos en **C y FASM** para comparar entrada y salida, decisiones, ciclos y patrones. La batería en Linux registra **132 comparaciones correctas y ninguna fallida**. Son comparaciones de casos y modos de ejecución, no 132 programas distintos. La materia incluye además un [proyecto de integración C/NASM en Windows](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-fundamentos-sistemas-computacionales/proyecto-hibrido-c-nasm).
+Doce ejercicios resueltos en **C y FASM** para comparar entrada y salida, decisiones, ciclos y patrones. La batería en Linux registra **132 comparaciones correctas y ninguna fallida**. Son comparaciones de casos y modos de ejecución, no 132 programas distintos. La materia incluye además un [proyecto de integración C/NASM en Windows](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/02-fundamentos-sistemas-computacionales/proyecto-hibrido-c-nasm).
 
 ### Transformación Digital TagMalco
 
