@@ -10,25 +10,32 @@ Estudio Ingeniería en Ciencias de la Computación en la **Pontificia Universida
 
 En este perfil comparto lo que voy construyendo durante mi formación: ejercicios, proyectos y explicaciones de las decisiones que tomo al resolverlos. También reúno experiencia en soporte técnico, investigación y coordinación de proyectos institucionales.
 
-[Portafolio académico](https://github.com/jokxer8/soluciones-programacion-academica) · [LinkedIn](https://www.linkedin.com/in/jokxer/) · [Contacto](mailto:kelvin.del.castillo@gmail.com)
+[Portafolio académico](https://github.com/jokxer8/soluciones-programacion-academica) · [Sitio web](https://jokxer.dev/) · [LinkedIn](https://www.linkedin.com/in/jokxer/) · [Contacto](mailto:kelvin.del.castillo@gmail.com)
 
 ---
 
 ## Mi recorrido académico
 
-El [portafolio](https://github.com/jokxer8/soluciones-programacion-academica) reúne **siete materias y 46 actividades**. Las organicé siguiendo el recorrido desde la representación de datos y los primeros programas hasta el diseño de algoritmos y las aplicaciones con bases de datos.
+El [portafolio](https://github.com/jokxer8/soluciones-programacion-academica) tiene **ocho materias con actividades documentadas**, dentro de un índice académico numerado del 00 al 15. Cada área indica su estado y diferencia los documentos originales de las explicaciones complementarias.
 
 | Materia | Qué trabajé |
 |---|---|
-| [00 · Fundamentos de Sistema Computacionales](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-fundamentos-sistemas-computacionales) | Bases numéricas, C, ensamblador, memoria dinámica y estructuras enlazadas. |
-| [01 · Introducción a la Programación](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/01-introduccion-programacion) | Algoritmos, diagramas de flujo y primeros programas C++ con cálculos, ciclos y texto. |
-| [02 · Fundamentos de Programación](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/02-fundamentos-programacion) | Lógica, decisiones, ciclos, arreglos, cadenas y métodos en C#. |
+| [00 · Introducción a la Algoritmia](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-introduccion-a-la-algoritmia) | Primeros algoritmos, diagramas de flujo y programas introductorios en C++. |
+| [01 · Fundamentos de Programación](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/01-fundamentos-programacion) | Lógica, decisiones, ciclos, arreglos, cadenas y métodos en C#. |
+| [02 · Fundamentos de Sistemas Computacionales](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/02-fundamentos-sistemas-computacionales) | Bases numéricas, C y ensamblador, memoria dinámica y estructuras enlazadas. |
 | [03 · Programación Orientada a Objetos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/03-programacion-orientada-a-objetos) | Clases, encapsulación, composición, herencia, polimorfismo y archivos. |
-| [04 · Diseño y Análisis de Algoritmos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/04-diseno-y-analisis-de-algoritmos) | Búsqueda, ordenamiento, recursión, programación dinámica y análisis de complejidad. |
-| [05 · Programación Funcional-SML](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/05-programacion-funcional-sml) | Programación funcional, cálculo lambda, inferencia de tipos, módulos y secuencias. |
+| [04 · Algoritmos Clásicos y Estructuras de Datos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/04-algoritmo-clasico-y-estructura-de-datos) | Nueve prácticas, ejercicios complementarios y dos proyectos; la Práctica 3 no fue presentada y cuenta con desarrollo didáctico complementario. |
+| [05 · Diseño y Análisis de Algoritmos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/05-diseno-y-analisis-de-algoritmos) | Búsqueda, ordenamiento, recursión, programación dinámica y análisis de complejidad. |
+| [15 · Programación Funcional-SML](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/15-programacion-funcional-sml) | Programación funcional, cálculo lambda, inferencia de tipos, módulos y secuencias. |
 | [06 · Bases de Datos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/06-bases-de-datos) | Modelado, normalización, consultas SQL y un proyecto de reservas de hotel. |
 
-Cada actividad tiene una explicación y una guía de desarrollo, junto con el código o los documentos que le corresponden. La [guía de lectura](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/GUIA-DE-LECTURA.md) explica la notación compartida, y la [lista de pendientes](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/PENDIENTES.md) recoge lo que falta por ampliar o comprobar.
+Las actividades publicadas incluyen fichas para explicar su propósito y la evidencia disponible. En la materia 04, la [Práctica 3](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/04-algoritmo-clasico-y-estructura-de-datos/practica-03) se identifica como no presentada; su desarrollo complementario no se atribuye como entrega original. La [guía de lectura](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/GUIA-DE-LECTURA.md) explica los estados y la [lista de pendientes](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/PENDIENTES.md) reúne lo que falta por publicar.
+
+---
+
+## Sitio web
+
+Mi sitio personal ya está disponible en [jokxer.dev](https://jokxer.dev/). Se encuentra **en construcción**, y presenta secciones personales, profesionales, de videojuegos, fútbol y contacto. Allí reúno una vista más amplia de mis proyectos, experiencia e intereses.
 
 ---
 
@@ -36,7 +43,7 @@ Cada actividad tiene una explicación y una guía de desarrollo, junto con el c�
 
 ### Primeros algoritmos en C++
 
-[Ver materia](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/01-introduccion-programacion) · [Validación](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/01-introduccion-programacion/VALIDACION.md)
+[Ver materia](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-introduccion-a-la-algoritmia) · [Validación](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/00-introduccion-a-la-algoritmia/VALIDACION.md)
 
 Siete actividades de Introducción a la Programación que reúnen algoritmos, diagramas y entregas individuales y grupales. Incluyen cinco programas C++ con **32 casos de prueba correctos en Windows**. Conservo las entregas y explico las diferencias con las versiones compilables.
 
@@ -52,13 +59,13 @@ La versión publicada incluye compilación automatizada en Windows y **79 prueba
 
 ### Gestión de países en C
 
-[Ver proyecto](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-fundamentos-sistemas-computacionales/proyecto-final-paises)
+[Ver proyecto](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/02-fundamentos-sistemas-computacionales/proyecto-final-paises)
 
 Una aplicación en **C** que carga un conjunto histórico de **227 registros** desde un archivo CSV y los organiza en una lista doblemente enlazada. Permite consultar, insertar, eliminar y ordenar países. En el desarrollo explico la estructura de los nodos y el manejo de memoria; las cifras del archivo pertenecen al conjunto de datos de la actividad y no se presentan como estadísticas actuales.
 
 ### Ejercicios equivalentes en C y ensamblador
 
-[Ver ejercicios](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-fundamentos-sistemas-computacionales/c-y-ensamblador) · [Resultados en Linux](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/00-fundamentos-sistemas-computacionales/PRUEBAS-LINUX.md)
+[Ver ejercicios](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-fundamentos-sistemas-computacionales/c-y-ensamblador) · [Resultados en Linux](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/02-fundamentos-sistemas-computacionales/PRUEBAS-LINUX.md)
 
 Doce ejercicios resueltos en **C y FASM** para comparar entrada y salida, decisiones, ciclos y patrones. La batería en Linux registra **132 comparaciones correctas y ninguna fallida**. Son comparaciones de casos y modos de ejecución, no 132 programas distintos. La materia incluye además un [proyecto de integración C/NASM en Windows](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-fundamentos-sistemas-computacionales/proyecto-hibrido-c-nasm).
 
