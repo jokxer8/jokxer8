@@ -4,7 +4,7 @@
 
 ### Desarrollo de software y análisis de datos (Software & Data Developer)
 
-![Presentación: software, datos y proyectos](assets/perfil.svg)
+**Software, datos y proyectos aplicados al aprendizaje y al trabajo.**
 
 ![Perfil](https://img.shields.io/badge/Perfil-Desarrollador%20Junior-2563EB?style=for-the-badge)
 ![Formación](https://img.shields.io/badge/Formaci%C3%B3n-PUCMM-7C3AED?style=for-the-badge)
