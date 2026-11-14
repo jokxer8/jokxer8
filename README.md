@@ -1,10 +1,16 @@
+<div align="center">
+
 # Kelvin César Del Castillo Torres
+
+### Desarrollo de software y análisis de datos (Software & Data Developer)
 
 ![Presentación: software, datos y proyectos](assets/perfil.svg)
 
-![Perfil](https://img.shields.io/badge/Perfil-Desarrollador%20Junior-blue)
-![Formación](https://img.shields.io/badge/Formaci%C3%B3n-PUCMM-purple)
-![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Rep%C3%BAblica%20Dominicana-brightgreen)
+![Perfil](https://img.shields.io/badge/Perfil-Desarrollador%20Junior-2563EB?style=for-the-badge)
+![Formación](https://img.shields.io/badge/Formaci%C3%B3n-PUCMM-7C3AED?style=for-the-badge)
+![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Rep%C3%BAblica%20Dominicana-059669?style=for-the-badge)
+
+</div>
 
 Estudio Ingeniería en Ciencias de la Computación en la **Pontificia Universidad Católica Madre y Maestra (PUCMM)**. Mi experiencia combina desarrollo de software, análisis y organización de datos, coordinación de proyectos tecnológicos y soporte técnico. Me interesa conectar lo que aprendo con necesidades concretas de las instituciones y las personas.
 
