@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kelvin César Del Castillo Torres
+<h1 align="center"><img src="assets/readme-banners/perfil.svg" alt="Kelvin César Del Castillo Torres" width="100%"></h1>
 
 ### Desarrollo de software y análisis de datos (Software & Data Developer)
 
