@@ -10,13 +10,13 @@
 ![Formación](https://img.shields.io/badge/Formaci%C3%B3n-PUCMM-7C3AED?style=for-the-badge)
 ![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Rep%C3%BAblica%20Dominicana-059669?style=for-the-badge)
 
+[Portafolio académico](https://github.com/jokxer8/soluciones-programacion-academica) · [Sitio web](https://jokxer.dev/) · [LinkedIn](https://www.linkedin.com/in/jokxer/) · [Contacto](mailto:kelvin.del.castillo@gmail.com)
+
 </div>
 
 Estudio Ingeniería en Ciencias de la Computación en la **Pontificia Universidad Católica Madre y Maestra (PUCMM)**. Mi experiencia combina desarrollo de software, análisis y organización de datos, coordinación de proyectos tecnológicos y soporte técnico. Me interesa conectar lo que aprendo con necesidades concretas de las instituciones y las personas.
 
 En este perfil comparto lo que voy construyendo durante mi formación: ejercicios, proyectos y explicaciones de las decisiones que tomo al resolverlos. También reúno experiencia en soporte técnico, investigación y coordinación de proyectos institucionales.
-
-[Portafolio académico](https://github.com/jokxer8/soluciones-programacion-academica) · [Sitio web](https://jokxer.dev/) · [LinkedIn](https://www.linkedin.com/in/jokxer/) · [Contacto](mailto:kelvin.del.castillo@gmail.com)
 
 ---
 
