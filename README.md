@@ -22,7 +22,7 @@ En este perfil comparto lo que voy construyendo durante mi formación: ejercicio
 
 ## Mi recorrido académico
 
-El [portafolio](https://github.com/jokxer8/soluciones-programacion-academica) tiene **ocho materias con actividades documentadas**, dentro de un índice académico numerado del 00 al 15. Cada área indica su estado y diferencia los documentos originales de las explicaciones complementarias.
+El [portafolio](https://github.com/jokxer8/soluciones-programacion-academica) reúne **diez materias con contenido publicado**, dentro de un índice académico numerado del 00 al 15. En el README principal, estas materias aparecen como **Completado** dentro del alcance publicado; las materias aún sin contenido se marcan como **Pendiente**. Estos estados describen la documentación disponible y no representan calificaciones institucionales.
 
 | Materia | Qué trabajé |
 |---|---|
@@ -30,10 +30,12 @@ El [portafolio](https://github.com/jokxer8/soluciones-programacion-academica) ti
 | [01 · Fundamentos de Programación](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/01-fundamentos-programacion) | Lógica, decisiones, ciclos, arreglos, cadenas y métodos en C#. |
 | [02 · Fundamentos de Sistemas Computacionales](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/02-fundamentos-sistemas-computacionales) | Bases numéricas, C y ensamblador, memoria dinámica y estructuras enlazadas. |
 | [03 · Programación Orientada a Objetos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/03-programacion-orientada-a-objetos) | Clases, encapsulación, composición, herencia, polimorfismo y archivos. |
-| [04 · Algoritmos Clásicos y Estructuras de Datos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/04-algoritmo-clasico-y-estructura-de-datos) | Nueve prácticas, ejercicios complementarios y dos proyectos; la Práctica 3 no fue presentada y cuenta con desarrollo didáctico complementario. |
+| [04 · Algoritmos Clásicos y Estructuras de Datos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/04-algoritmo-clasico-y-estructura-de-datos) | Nueve prácticas, ejercicios complementarios y dos proyectos; la Práctica 3 no fue presentada y su desarrollo didáctico se identifica como complementario. |
 | [05 · Diseño y Análisis de Algoritmos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/05-diseno-y-analisis-de-algoritmos) | Búsqueda, ordenamiento, recursión, programación dinámica y análisis de complejidad. |
-| [15 · Programación Funcional-SML](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/15-programacion-funcional-sml) | Programación funcional, cálculo lambda, inferencia de tipos, módulos y secuencias. |
 | [06 · Bases de Datos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/06-bases-de-datos) | Modelado, normalización, consultas SQL y un proyecto de reservas de hotel. |
+| [08 · Sistemas Operativos](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/08-sistemas-operativos) | Material de estudio, tareas, proyectos colaborativos y competencias documentadas sobre sistemas, virtualización, Shell y administración de servidores. |
+| [10 · Introducción a la Ingeniería de Software](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/10-introduccion-a-la-ingenieria-de-software) | Fundamentos, requisitos, modelado, prácticas de planificación SIGERH y KHuman, material de apoyo y simulador de repaso. |
+| [15 · Programación Funcional-SML](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/15-programacion-funcional-sml) | Programación funcional, cálculo lambda, inferencia de tipos, módulos y secuencias. |
 
 Las actividades publicadas incluyen fichas para explicar su propósito y la evidencia disponible. En la materia 04, la [Práctica 3](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/04-algoritmo-clasico-y-estructura-de-datos/practica-03) se identifica como no presentada; su desarrollo complementario no se atribuye como entrega original. La [guía de lectura](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/GUIA-DE-LECTURA.md) explica los estados y la [lista de pendientes](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/PENDIENTES.md) reúne lo que falta por publicar.
 
