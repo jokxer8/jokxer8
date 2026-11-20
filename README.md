@@ -47,6 +47,23 @@ Mi sitio personal ya está disponible en [jokxer.dev](https://jokxer.dev/). Se e
 
 ---
 
+## Desarrollo web y Jokxer Collaborators
+
+Mi portafolio [jokxer.dev](https://jokxer.dev/) reúne mi identidad personal, experiencia profesional, proyectos, gaming, fútbol y contacto. El sitio utiliza React, TypeScript, Vite y Tailwind CSS, con un backend para el formulario de contacto integrado con Bolt Database y Resend según los informes de desarrollo.
+
+Además estoy desarrollando **Jokxer Collaborators**, un módulo para que personas con quienes colaboro administren sus propios portafolios. El sistema está diseñado para que **solo el administrador cree las cuentas**, y para que proyectos, diseños y documentos se publiquen únicamente tras su revisión y aprobación. El objetivo es presentar contribuciones reales sin comprometer la privacidad ni el control editorial.
+
+**Estado al 20 de noviembre de 2026:**
+- **Fase 1:** arquitectura, contratos y documentación completados según el informe de Bolt.
+- **Fase 2:** implementación reportada de identidad, invitaciones, paneles privados, base de datos y controles de acceso; pendiente validar el primer administrador y la entrega real de correos.
+- **Fases 3–8:** edición de perfiles, gestión de portafolios, moderación, notificaciones, pruebas integrales y lanzamiento público, todavía pendientes.
+
+El módulo **no está abierto al público**. Esta documentación distingue funciones reportadas como implementadas de pruebas todavía no realizadas. La ampliación aprovecha infraestructura y servicios existentes, sin inversión adicional por ahora.
+
+**Documentación abierta:** [Jokxer Collaborators — progreso, arquitectura y roadmap](https://github.com/jokxer8/Jokxer-Portfolio-Showcase/tree/main/docs/jokxer-collaborators) · [Jokxer Portfolio Showcase](https://github.com/jokxer8/Jokxer-Portfolio-Showcase).
+
+---
+
 ## Proyectos que puedes explorar
 
 ### Primeros algoritmos en C++
