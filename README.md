@@ -49,20 +49,13 @@ Mi sitio personal ya está disponible en [jokxer.dev](https://jokxer.dev/). Se e
 
 ## Desarrollo web y Jokxer Collaborators
 
-Mi portafolio [jokxer.dev](https://jokxer.dev/) reúne mi identidad personal, experiencia profesional, proyectos, gaming, fútbol y contacto. El sitio utiliza React, TypeScript, Vite y Tailwind CSS, con un backend para el formulario de contacto integrado con Bolt Database y Resend según los informes de desarrollo.
+Mi sitio [jokxer.dev](https://jokxer.dev/) reúne las secciones Personal, Profesional, Gamer, Fútbol y Contacto. El código fuente se mantiene en un repositorio privado y el proyecto continúa evolucionando sin inversión adicional.
 
-Además estoy desarrollando **Jokxer Collaborators**, un módulo para que personas con quienes colaboro administren sus propios portafolios. El sistema está diseñado para que **solo el administrador cree las cuentas**, y para que proyectos, diseños y documentos se publiquen únicamente tras su revisión y aprobación. El objetivo es presentar contribuciones reales sin comprometer la privacidad ni el control editorial.
+Dentro del sitio desarrollo **Jokxer Collaborators**, un módulo privado para administrar portafolios de colaboradores invitados. La Fase 2 implementó autenticación, invitaciones de un solo uso, paneles privados, administración de cuentas y auditoría; el administrador conserva el control de las altas y de la aprobación futura de contenido. No hay autorregistro ni publicación pública de perfiles por ahora.
 
-**Estado al 20 de noviembre de 2026:**
-- **Fase 1:** arquitectura, contratos y documentación completados según el informe de Bolt.
-- **Fase 2:** implementación reportada de identidad, invitaciones, paneles privados, base de datos y controles de acceso; pendiente validar el primer administrador y la entrega real de correos.
-- **Fases 3–8:** edición de perfiles, gestión de portafolios, moderación, notificaciones, pruebas integrales y lanzamiento público, todavía pendientes.
+**Avance documentado al 21 de noviembre de 2026:** el acceso visual al panel privado con una cuenta de prueba quedó confirmado. Las comprobaciones de seguridad de base de datos y los controles de calidad (RLS, typecheck, lint y build) fueron reportados como satisfactorios. La prueba operativa de suspender a un colaborador —incluyendo cierre de sesiones y bloqueo de acceso— queda pendiente. La entrega real de correos transaccionales también sigue pendiente de confirmación.
 
-El módulo **no está abierto al público**. Esta documentación distingue funciones reportadas como implementadas de pruebas todavía no realizadas. La ampliación aprovecha infraestructura y servicios existentes, sin inversión adicional por ahora.
-
-**Documentación abierta:** [Jokxer Collaborators — progreso, arquitectura y roadmap](https://github.com/jokxer8/Jokxer-Portfolio-Showcase/tree/main/docs/jokxer-collaborators) · [Jokxer Portfolio Showcase](https://github.com/jokxer8/Jokxer-Portfolio-Showcase).
-
----
+El resumen de desarrollo, los hitos, la arquitectura, la seguridad y la hoja de ruta están en [Jokxer Portfolio Showcase](https://github.com/jokxer8/Jokxer-Portfolio-Showcase/tree/main/docs/jokxer-collaborators). La documentación interna y los detalles de implementación permanecen en el [repositorio privado de jokxer.dev](https://github.com/jokxer8/Pagina_Web_Jokxer).
 
 ## Proyectos que puedes explorar
 
