@@ -43,12 +43,12 @@ Las actividades publicadas incluyen fichas para explicar su propósito y la evid
 
 ## HomeLab y NAS
 
-Estoy convirtiendo una Dell reutilizada en un laboratorio doméstico con **Debian 13**. El NAS ya ofrece servicios de archivos SMB/NFS, acceso SSH, nube local, Docker y alojamiento de páginas web sencillas. También validé la conexión Ethernet, el firewall y el acceso remoto mediante Tailscale.
+Estoy desplegando un laboratorio doméstico sobre una Dell reutilizada con **Debian 13**. Ya están activos SMB/NFS, SSH, Docker, Nextcloud y páginas web de prueba. Probé el acceso remoto privado con Tailscale y validé la conexión Ethernet y el firewall.
 
-La siguiente etapa se centra en comprobar la restauración de respaldos, documentar permisos de acceso y activar el inicio automático de Tailscale en Windows. El almacenamiento del sistema está configurado y en uso; los próximos pasos respetan esa distribución.
+La siguiente etapa es comprobar la restauración de respaldos, terminar el hardening de la nube y automatizar Tailscale en Windows. La distribución LVM del SSD está operativa y se conserva sin redimensionar.
 
-- [Resumen público del proyecto HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview)
-- [Documentación técnica del NAS](https://github.com/jokxer8/Jokxer-HomeLab) (repositorio privado)
+- [Resumen público del HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview)
+- [Repositorio privado y documentación técnica](https://github.com/jokxer8/Jokxer-HomeLab)
 
 ## Sitio web
 
