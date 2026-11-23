@@ -41,6 +41,15 @@ Las actividades publicadas incluyen fichas para explicar su propósito y la evid
 
 ---
 
+## HomeLab y NAS
+
+Estoy convirtiendo una Dell reutilizada en un laboratorio doméstico con **Debian 13**. El NAS ya ofrece servicios de archivos SMB/NFS, acceso SSH, nube local, Docker y alojamiento de páginas web sencillas. También validé la conexión Ethernet, el firewall y el acceso remoto mediante Tailscale.
+
+La siguiente etapa se centra en comprobar la restauración de respaldos, documentar permisos de acceso y activar el inicio automático de Tailscale en Windows. El almacenamiento del sistema está configurado y en uso; los próximos pasos respetan esa distribución.
+
+- [Resumen público del proyecto HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview)
+- [Documentación técnica del NAS](https://github.com/jokxer8/Jokxer-HomeLab) (repositorio privado)
+
 ## Sitio web
 
 Mi sitio personal ya está disponible en [jokxer.dev](https://jokxer.dev/). Se encuentra **en construcción**, y presenta secciones personales, profesionales, de videojuegos, fútbol y contacto. Allí reúno una vista más amplia de mis proyectos, experiencia e intereses.
@@ -114,6 +123,7 @@ Estas son las herramientas que utilizo en mis estudios y en otras actividades de
 | Organización y documentación | GitHub, Draw.io, Microsoft Project, Xmind y Notion. |
 | Productividad | Office, Canva, Gamma y herramientas de IA como apoyo al trabajo. |
 | Soporte técnico | Mantenimiento de equipos, instalación y respaldo operativo. |
+| Infraestructura | Debian 13, Docker, SMB/NFS, SSH, firewall y Tailscale. |
 
 ## Experiencia
 
