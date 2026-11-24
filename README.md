@@ -43,9 +43,11 @@ Las actividades publicadas incluyen fichas para explicar su propósito y la evid
 
 ## HomeLab y NAS
 
-Estoy desplegando un laboratorio doméstico sobre una Dell reutilizada con **Debian 13**. Ya están activos SMB/NFS, SSH, Docker, Nextcloud y páginas web de prueba. Probé el acceso remoto privado con Tailscale y validé la conexión Ethernet y el firewall.
+Estoy construyendo un laboratorio doméstico sobre una Dell reutilizada con **Debian 13**. El NAS integra almacenamiento SMB/NFS, Docker, Nextcloud, páginas de laboratorio y acceso remoto privado con Tailscale.
 
-La siguiente etapa es comprobar la restauración de respaldos, terminar el hardening de la nube y automatizar Tailscale en Windows. La distribución LVM del SSD está operativa y se conserva sin redimensionar.
+En noviembre de 2026 el proyecto avanzó a la automatización de respaldos y a probar la recuperación aislada de Nextcloud. Ya se generaron y verificaron copias de la base de datos y los archivos, y se validó parte del flujo de restauración. La recuperación integral sigue en curso: falta verificar las tablas restauradas, completar una prueba de interrupción y reiniciar el servicio de forma controlada. Nextcloud permanece pensado para acceso privado, sin exposición directa a Internet.
+
+La prioridad es demostrar que los datos y el servicio se pueden recuperar antes de ampliar el laboratorio. La distribución LVM del SSD de 2 TB se conserva intacta; el disco de laboratorio de 1 TB tiene un antecedente de sectores pendientes y no se usa para datos críticos.
 
 - [Resumen público del HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview)
 - [Repositorio privado y documentación técnica](https://github.com/jokxer8/Jokxer-HomeLab)
