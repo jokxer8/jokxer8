@@ -25,7 +25,8 @@ En este perfil comparto lo que voy construyendo durante mi formación: ejercicio
 | Proyecto | Nivel del hito | Resultado verificable | Siguiente hito |
 |---|---|---|---|
 | 🏨 [Reservas de Hotel](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/06-bases-de-datos/hotel-reservas-proyecto-final) | **Validado en pruebas** | [79 de 79 pruebas funcionales correctas](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/06-bases-de-datos/hotel-reservas-proyecto-final/docs/PRUEBAS-FUNCIONALES.md) en la revisión documentada del 16 de octubre de 2026. | Probar concurrencia entre operadores y completar un recorrido visual. |
-| 🧰 [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview#resultados-verificables) | **Validado parcialmente** · restauración desde copia externa | Al 25 de noviembre de 2026, la instancia aislada arrancó y el escaneo recorrió 142 archivos sin errores y se comprobó la descarga de un archivo. | Completar la prueba de escritura y confirmar un respaldo disparado por el temporizador. |
+| 🌐 [Cadena Hotelera · Redes](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/07-fundamentos-de-redes/proyecto-cadena-hotelera) | **Validado en simulación** | 5 de 5 escenarios conformes según el informe de clase; cuatro sedes y cinco routers. Caso en equipo con Gabriel Galasso. | [Abrir el informe, la matriz y el simulador](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/07-fundamentos-de-redes/proyecto-cadena-hotelera). |
+| 🧰 [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview#resultados-verificables) | **Validado** · recuperación aislada desde copia externa | Escaneo sin errores de 142 archivos; descarga, escritura y eliminación autenticadas verificadas con un archivo de prueba. | Confirmar un respaldo exitoso disparado por el temporizador. |
 | 👥 [Jokxer Collaborators](https://github.com/jokxer8/Jokxer-Portfolio-Showcase/blob/main/docs/jokxer-collaborators/MILESTONES.md#validación-operativa-observada) | **Implementado** · módulo privado | 3 de 5 flujos con evidencia en una cuenta de prueba: invitar, activar y entrar al panel; corte al 25 de noviembre de 2026. | Validar recuperación por correo y suspensión efectiva. |
 
 Leo el avance por hito: **Diseñado** (plan o modelo), **Implementado** (solución disponible en su entorno), **Validado** (prueba con evidencia), **En operación** (uso o despliegue comprobado) y **Medido** (indicador con método y periodo). Un resultado de prueba no implica uso en producción.
@@ -40,7 +41,7 @@ Leo el avance por hito: **Diseñado** (plan o modelo), **Implementado** (soluci�
 
 ## Mi recorrido académico
 
-El [portafolio](https://github.com/jokxer8/soluciones-programacion-academica) reúne **diez materias con contenido publicado**, dentro de un índice académico numerado del 00 al 15. En el README principal, estas materias aparecen como **Completado** dentro del alcance publicado; las materias aún sin contenido se marcan como **Pendiente**. Estos estados describen la documentación disponible y no representan calificaciones institucionales.
+El [portafolio](https://github.com/jokxer8/soluciones-programacion-academica) reúne **11 de 16 materias documentadas**, dentro de un índice académico numerado del 00 al 15. En el README principal, estas materias aparecen como **Completado** dentro del alcance publicado; las materias aún sin contenido se marcan como **Pendiente**. Estos estados describen la documentación disponible y no representan calificaciones institucionales. En [Fundamentos de Redes](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/07-fundamentos-de-redes) puedes abrir las entregas, el material de estudio y siete simuladores.
 
 | Materia | Qué trabajé |
 |---|---|
@@ -72,7 +73,7 @@ Estoy construyendo un NAS y laboratorio doméstico sobre una Dell reutilizada co
 - Probé HTTPS local, acceso remoto privado y sincronización bidireccional con Windows.
 - Implementé respaldos con verificación SHA-256 y validé una restauración incremental aislada, incluida la lectura y escritura de archivos.
 
-**Estado actual:** probé la recuperación de Nextcloud tras una interrupción y un reinicio del NAS. Verifiqué una copia independiente del respaldo. Tras el fallo inicial del temporizador, la corrección pasó una prueba controlada y un respaldo iniciado manualmente. Desde la copia externa arrancó una instancia aislada y se escanearon 142 archivos sin errores. Se verificó además la descarga autenticada de un archivo y su contenido. Quedan por comprobar la escritura y un respaldo disparado por el temporizador.
+**Estado actual:** probé la recuperación de Nextcloud tras una interrupción y un reinicio del NAS. La copia independiente se restauró en un entorno aislado. El escaneo recorrió 142 archivos en 24 carpetas sin errores; se verificaron descarga autenticada con contenido idéntico, escritura con comprobación del contenido y eliminación del archivo de prueba. Esto no mide el tiempo de recuperación ni verifica todos los archivos individualmente. Falta confirmar una ejecución exitosa iniciada por el temporizador.
 
 La seguridad guía las decisiones: Nextcloud permanece privado, las pruebas se aíslan de producción, se conservan intactos el SSD/LVM de 2 TB y el disco de 1 TB con sectores pendientes no se usa para datos críticos.
 
