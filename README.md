@@ -10,7 +10,7 @@
 ![Formación](https://img.shields.io/badge/Formaci%C3%B3n-PUCMM-7C3AED?style=for-the-badge)
 ![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Rep%C3%BAblica%20Dominicana-059669?style=for-the-badge)
 
-[Portafolio académico](https://github.com/jokxer8/soluciones-programacion-academica) · [Sitio web](https://jokxer.dev/) · [LinkedIn](https://www.linkedin.com/in/jokxer/) · [Contacto](mailto:kelvin.del.castillo@gmail.com)
+[Portafolio académico](https://github.com/jokxer8/soluciones-programacion-academica) · [Sitio web](https://jokxer.dev/) · [LinkedIn](https://www.linkedin.com/in/jokxer/) · [Contacto](mailto:kelvincesar@jokxer.dev)
 
 </div>
 
@@ -19,6 +19,14 @@ Estudio Ingeniería en Ciencias de la Computación en la **Pontificia Universida
 En este perfil comparto lo que voy construyendo durante mi formación: ejercicios, proyectos y explicaciones de las decisiones que tomo al resolverlos. También reúno experiencia en soporte técnico, investigación y coordinación de proyectos institucionales.
 
 ---
+
+## Explora mi trabajo
+
+| Si buscas… | Empieza por… |
+|---|---|
+| 🎓 Aprender | [Ruta académica 00–15](https://github.com/jokxer8/soluciones-programacion-academica): 10 de 16 materias documentadas. |
+| 🧰 Explorar proyectos técnicos | [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview) y [proyectos de software](#proyectos-que-puedes-explorar), con avances y pruebas. |
+| 💼 Evaluar mi trabajo profesional | [Experiencia](#experiencia), [portafolio web](https://github.com/jokxer8/Jokxer-Portfolio-Showcase) y [LinkedIn](https://www.linkedin.com/in/jokxer/). |
 
 ## Mi recorrido académico
 
@@ -52,30 +60,21 @@ Estoy construyendo un NAS y laboratorio doméstico sobre una Dell reutilizada co
 - Instalé y configuré el host, SSH, Ethernet y un firewall restrictivo.
 - Desplegué SMB/NFS, Docker y Nextcloud con MariaDB y Redis.
 - Probé HTTPS local, acceso remoto privado y sincronización bidireccional con Windows.
-- Generé respaldos de archivos y base de datos, y preparé una restauración aislada con verificaciones de integridad.
+- Implementé respaldos con verificación SHA-256 y validé una restauración incremental aislada, incluida la lectura y escritura de archivos.
 
-**Estado actual:** la recuperación de Nextcloud sigue en validación. La restauración SQL terminó en el paso 262 y el paso 263 revisa las tablas. Aún falta completar la prueba de interrupción, reiniciar la aplicación de forma controlada y establecer una copia independiente del NAS.
+**Estado actual:** probé la recuperación de Nextcloud tras una interrupción y un reinicio del NAS. Verifiqué una copia independiente del respaldo. El primer ciclo programado no terminó; quedan por validar la corrección de la programación y la restauración desde esa copia.
 
 La seguridad guía las decisiones: Nextcloud permanece privado, las pruebas se aíslan de producción, se conservan intactos el SSD/LVM de 2 TB y el disco de 1 TB con sectores pendientes no se usa para datos críticos.
 
 - [Resumen público con avances y estado](https://github.com/jokxer8/Jokxer-HomeLab-Overview)
-- [Documentación técnica completa](https://github.com/jokxer8/Jokxer-HomeLab)
 
-## Sitio web
+## Sitio web y Jokxer Collaborators
 
-Mi sitio personal ya está disponible en [jokxer.dev](https://jokxer.dev/). Se encuentra **en construcción**, y presenta secciones personales, profesionales, de videojuegos, fútbol y contacto. Allí reúno una vista más amplia de mis proyectos, experiencia e intereses.
-
----
-
-## Desarrollo web y Jokxer Collaborators
-
-Mi sitio [jokxer.dev](https://jokxer.dev/) reúne las secciones Personal, Profesional, Gamer, Fútbol y Contacto. El código fuente se mantiene en un repositorio privado y el proyecto continúa evolucionando sin inversión adicional.
+Mi sitio [jokxer.dev](https://jokxer.dev/) está publicado y sigue en desarrollo. Reúne las secciones Personal, Profesional, Gamer, Fútbol y Contacto. El código permanece en un repositorio privado. En el [Portfolio Showcase](https://github.com/jokxer8/Jokxer-Portfolio-Showcase) explico el diseño del sitio y los hitos de Collaborators.
 
 Dentro del sitio desarrollo **Jokxer Collaborators**, un módulo privado para administrar portafolios de colaboradores invitados. La Fase 2 implementó autenticación, invitaciones de un solo uso, paneles privados, administración de cuentas y auditoría; el administrador conserva el control de las altas y de la aprobación futura de contenido. No hay autorregistro ni publicación pública de perfiles por ahora.
 
-**Avance documentado al 21 de noviembre de 2026:** el acceso visual al panel privado con una cuenta de prueba quedó confirmado. Las comprobaciones de seguridad de base de datos y los controles de calidad (RLS, typecheck, lint y build) fueron reportados como satisfactorios. La prueba operativa de suspender a un colaborador —incluyendo cierre de sesiones y bloqueo de acceso— queda pendiente. La entrega real de correos transaccionales también sigue pendiente de confirmación.
-
-El resumen de desarrollo, los hitos, la arquitectura, la seguridad y la hoja de ruta están en [Jokxer Portfolio Showcase](https://github.com/jokxer8/Jokxer-Portfolio-Showcase/tree/main/docs/jokxer-collaborators). La documentación interna y los detalles de implementación permanecen en el [repositorio privado de jokxer.dev](https://github.com/jokxer8/Pagina_Web_Jokxer).
+**Avance documentado:** el acceso visual al panel privado con una cuenta de prueba quedó confirmado. Las comprobaciones de seguridad de base de datos y los controles de calidad (RLS, typecheck, lint y build) fueron reportados como satisfactorios. La prueba operativa de suspender a un colaborador —incluyendo cierre de sesiones y bloqueo de acceso— queda pendiente. El historial registra la recepción y activación de una invitación de prueba; queda por validar el flujo de recuperación por correo.
 
 ## Proyectos que puedes explorar
 
@@ -169,6 +168,6 @@ Mi formación complementaria incluye inteligencia artificial y seguridad con Hua
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jokxer-blue)](https://www.linkedin.com/in/jokxer/)
-[![Correo](https://img.shields.io/badge/Correo-Contactar-lightgrey)](mailto:kelvin.del.castillo@gmail.com)
+[![Correo](https://img.shields.io/badge/Correo-Contactar-lightgrey)](mailto:kelvincesar@jokxer.dev)
 
 **kelvincesar@jokxer.dev**
