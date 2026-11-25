@@ -10,7 +10,7 @@ Explora mis proyectos, el trabajo que realicé y la evidencia que respalda cada 
 ![Formación: PUCMM](https://img.shields.io/badge/Formaci%C3%B3n-PUCMM-176754?style=for-the-badge)
 ![Evidencia: Proyectos documentados](https://img.shields.io/badge/Evidencia-Proyectos%20documentados-3A4B63?style=for-the-badge)
 
-[🎓 Portafolio académico](#mi-recorrido-académico) · [🧰 HomeLab](#homelab-y-nas) · [💼 Experiencia](#experiencia) · [✉️ Contacto](#contacto)
+[🧪 Proyectos y evidencia](#proyectos-y-evidencia) · [🎓 Portafolio académico](#mi-recorrido-académico) · [🧰 HomeLab](#homelab-y-nas) · [🏰 Castillo Jokxer](#castillo-jokxer) · [🌐 Sitio web](#sitio-web-y-jokxer-collaborators) · [💼 Experiencia](#experiencia) · [✉️ Contacto](#contacto)
 
 </div>
 
@@ -27,6 +27,7 @@ En este perfil comparto lo que voy construyendo durante mi formación: ejercicio
 | 🏨 [Reservas de Hotel](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/06-bases-de-datos/hotel-reservas-proyecto-final) | **Validado en pruebas** | [79 de 79 pruebas funcionales correctas](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/06-bases-de-datos/hotel-reservas-proyecto-final/docs/PRUEBAS-FUNCIONALES.md) en la revisión documentada del 16 de octubre de 2026. | Probar concurrencia entre operadores y completar un recorrido visual. |
 | 🌐 [Cadena Hotelera · Redes](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/07-fundamentos-de-redes/proyecto-cadena-hotelera) | **Validado en simulación** | 5 de 5 escenarios conformes según el informe de clase; cuatro sedes y cinco routers. Caso en equipo con Gabriel Galasso. | [Abrir el informe, la matriz y el simulador](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/07-fundamentos-de-redes/proyecto-cadena-hotelera). |
 | 🧰 [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview#resultados-verificables) | **Validado** · recuperación aislada desde copia externa | Escaneo sin errores de 142 archivos; descarga, escritura y eliminación autenticadas verificadas con un archivo de prueba. | [Validar el ciclo programado y cerrar la recepción semanal](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/resultados-de-respaldo.md). |
+| 🏰 [Castillo Jokxer · Luanti](https://github.com/jokxer8/Jokxer-Luanti-Overview) | **Implementado** · construcciones documentadas | [Cuatro capturas del mundo y dos planos conceptuales](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/castillo.md): recinto, biblioteca, almacén y sala de trofeos. | Proyecto pausado. Al retomarlo, probar el primer recorrido con NPC y misión. |
 | 👥 [Jokxer Collaborators](https://github.com/jokxer8/Jokxer-Portfolio-Showcase/blob/main/docs/jokxer-collaborators/MILESTONES.md#validación-operativa-observada) | **Implementado** · módulo privado | 3 de 5 flujos con evidencia en una cuenta de prueba: invitar, activar y entrar al panel; corte al 25 de noviembre de 2026. | Validar recuperación por correo y suspensión efectiva. |
 
 Leo el avance por hito: **Diseñado** (plan o modelo), **Implementado** (solución disponible en su entorno), **Validado** (prueba con evidencia), **En operación** (uso o despliegue comprobado) y **Medido** (indicador con método y periodo). Un resultado de prueba no implica uso en producción.
@@ -35,8 +36,9 @@ Leo el avance por hito: **Diseñado** (plan o modelo), **Implementado** (soluci�
 
 | Si buscas… | Empieza por… |
 |---|---|
-| 🎓 Aprender | [Ruta académica 00–15](https://github.com/jokxer8/soluciones-programacion-academica): 10 de 16 materias documentadas. |
+| 🎓 Aprender | [Ruta académica 00–15](https://github.com/jokxer8/soluciones-programacion-academica): 11 de 16 materias documentadas. |
 | 🧰 Explorar proyectos técnicos | [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview) y [proyectos de software](#proyectos-que-puedes-explorar), con avances y pruebas. |
+| 🏰 Explorar el Castillo | [Recorrido visual](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/castillo.md) y [guías para jugar o montar un servidor propio](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/README.md). |
 | 💼 Evaluar mi trabajo profesional | [Experiencia](#experiencia), [portafolio web](https://github.com/jokxer8/Jokxer-Portfolio-Showcase) y [LinkedIn](https://www.linkedin.com/in/jokxer/). |
 
 ## Mi recorrido académico
@@ -80,6 +82,14 @@ La seguridad guía las decisiones: Nextcloud permanece privado, las pruebas se a
 
 - [Resumen público con avances y estado](https://github.com/jokxer8/Jokxer-HomeLab-Overview)
 
+## Castillo Jokxer
+
+Diseñé y construí un castillo costero para un mundo cooperativo de supervivencia. La primera etapa del servidor fue Minecraft Java con Fabric; el mundo del recorrido está documentado en **Luanti con Mineclonia**. La biblioteca, el almacén y la sala de trofeos se pueden ver en capturas del juego. La Sala de Mapas sigue en diseño.
+
+**Estado:** desarrollo pausado. La Casa de Misiones forma parte de la obra; los NPC, las misiones y la economía propia aún no están implementados como sistema de juego.
+
+[Ver el recorrido](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/castillo.md) · [Jugar con Luanti](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/jugar.md) · [Montar un servidor propio](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/servidor.md)
+
 ## Sitio web y Jokxer Collaborators
 
 Mi sitio [jokxer.dev](https://jokxer.dev/) está publicado y sigue en desarrollo. Reúne las secciones Personal, Profesional, Gamer, Fútbol y Contacto. El código permanece en un repositorio privado. En el [Portfolio Showcase](https://github.com/jokxer8/Jokxer-Portfolio-Showcase) explico el diseño del sitio y los hitos de Collaborators.
@@ -94,7 +104,7 @@ Dentro del sitio desarrollo **Jokxer Collaborators**, un módulo privado para ad
 
 [Ver materia](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/00-introduccion-a-la-algoritmia) · [Validación](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/00-introduccion-a-la-algoritmia/VALIDACION.md)
 
-Siete actividades de Introducción a la Programación que reúnen algoritmos, diagramas y entregas individuales y grupales. Incluyen cinco programas C++ con **32 casos de prueba correctos en Windows**. Conservo las entregas y explico las diferencias con las versiones compilables.
+Siete actividades de Introducción a la Algoritmia que reúnen algoritmos, diagramas y entregas individuales y grupales. Incluyen cinco programas C++ con **32 casos de prueba correctos en Windows**. Conservo las entregas y explico las diferencias con las versiones compilables.
 
 También ejecuté el [diagrama del triángulo en RAPTOR](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/00-introduccion-a-la-algoritmia/triangulo-rectangulo/PRUEBAS-RAPTOR.md): documenté el error de la entrega y comprobé la corrección con siete casos numéricos y una ejecución con entrada manual.
 
