@@ -20,6 +20,16 @@ En este perfil comparto lo que voy construyendo durante mi formación: ejercicio
 
 ---
 
+## Proyectos y evidencia
+
+| Proyecto | Nivel del hito | Resultado verificable | Siguiente hito |
+|---|---|---|---|
+| 🏨 [Reservas de Hotel](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/06-bases-de-datos/hotel-reservas-proyecto-final) | **Validado en pruebas** | [79 de 79 pruebas funcionales correctas](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/06-bases-de-datos/hotel-reservas-proyecto-final/docs/PRUEBAS-FUNCIONALES.md) en la revisión documentada del 16 de octubre de 2026. | Probar concurrencia entre operadores y completar un recorrido visual. |
+| 🧰 [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview#resultados-verificables) | **Validado parcialmente** · restauración desde copia externa | Al 25 de noviembre de 2026, la instancia aislada arrancó y el escaneo recorrió 142 archivos sin errores y se comprobó la descarga de un archivo. | Completar la prueba de escritura y confirmar un respaldo disparado por el temporizador. |
+| 👥 [Jokxer Collaborators](https://github.com/jokxer8/Jokxer-Portfolio-Showcase/blob/main/docs/jokxer-collaborators/MILESTONES.md#validación-operativa-observada) | **Implementado** · módulo privado | 3 de 5 flujos con evidencia en una cuenta de prueba: invitar, activar y entrar al panel; corte al 25 de noviembre de 2026. | Validar recuperación por correo y suspensión efectiva. |
+
+Leo el avance por hito: **Diseñado** (plan o modelo), **Implementado** (solución disponible en su entorno), **Validado** (prueba con evidencia), **En operación** (uso o despliegue comprobado) y **Medido** (indicador con método y periodo). Un resultado de prueba no implica uso en producción.
+
 ## Explora mi trabajo
 
 | Si buscas… | Empieza por… |
@@ -62,7 +72,7 @@ Estoy construyendo un NAS y laboratorio doméstico sobre una Dell reutilizada co
 - Probé HTTPS local, acceso remoto privado y sincronización bidireccional con Windows.
 - Implementé respaldos con verificación SHA-256 y validé una restauración incremental aislada, incluida la lectura y escritura de archivos.
 
-**Estado actual:** probé la recuperación de Nextcloud tras una interrupción y un reinicio del NAS. Verifiqué una copia independiente del respaldo. Tras el fallo inicial del temporizador, la corrección pasó una prueba controlada y un respaldo iniciado manualmente. Quedan por confirmar el ciclo programado y la restauración desde esa copia.
+**Estado actual:** probé la recuperación de Nextcloud tras una interrupción y un reinicio del NAS. Verifiqué una copia independiente del respaldo. Tras el fallo inicial del temporizador, la corrección pasó una prueba controlada y un respaldo iniciado manualmente. Desde la copia externa arrancó una instancia aislada y se escanearon 142 archivos sin errores. Se verificó además la descarga autenticada de un archivo y su contenido. Quedan por comprobar la escritura y un respaldo disparado por el temporizador.
 
 La seguridad guía las decisiones: Nextcloud permanece privado, las pruebas se aíslan de producción, se conservan intactos el SSD/LVM de 2 TB y el disco de 1 TB con sectores pendientes no se usa para datos críticos.
 
@@ -110,7 +120,7 @@ Doce ejercicios resueltos en **C y FASM** para comparar entrada y salida, decisi
 
 [Ver caso de estudio](https://github.com/tagmalco/caso-estudio-transformacion-digital)
 
-Caso de diagnóstico tecnológico, migración de la gestión DNS a Cloudflare y documentación del proyecto. Reúne trabajo de coordinación e implementación orientado a mantener la continuidad de los servicios. El desarrollo web se plantea como una etapa posterior.
+Caso de diagnóstico tecnológico, migración de la gestión DNS a Cloudflare y documentación del proyecto. Reúne trabajo de coordinación e implementación orientado a mantener la continuidad de los servicios. El [caso público](https://github.com/tagmalco/caso-estudio-transformacion-digital) registra diagnóstico y migración DNS, con verificaciones de continuidad en el corte del 12 de octubre de 2026. No es una medición de disponibilidad actual.
 
 Conservo los créditos de los trabajos en equipo. Los informes de cada proyecto explican qué se comprobó y bajo qué condiciones.
 
@@ -147,7 +157,7 @@ Colaboro con la Dra. Mukien Sang Ben en la recopilación, depuración y organiza
 
 ## Coordinación y comunidad académica
 
-En el proyecto de plataforma universitaria del **IPES**, mi rol es la dirección y coordinación: organización funcional, seguimiento de fases, coordinación con especialistas y validación de necesidades de Admisión y Registro. El proyecto utiliza C#/ASP.NET y Angular. Mi CV registra la implementación de seguridad, usuarios y admisión, con registro académico todavía en desarrollo; ese estado no se presenta como una implementación terminada de toda la plataforma.
+En el proyecto de plataforma universitaria del **IPES**, mi rol es la dirección y coordinación: organización funcional, seguimiento de fases, coordinación con especialistas y validación de necesidades de Admisión y Registro. El proyecto utiliza C#/ASP.NET y Angular. Admisiones está funcional según la documentación del proyecto; Registro sigue en desarrollo. Presento mi aporte de coordinación, sin atribuirme el desarrollo completo ni publicar material interno.
 
 Fui encargado de Logística del **Comité Estudiantil de Ciencias de la Computación de PUCMM (2025–2026)**. Apoyé actividades académicas y la participación de 27 estudiantes en el CodeJam de PUCMM Santiago, redacté los estatutos del comité e impulsé iniciativas de comunicación y comunidad estudiantil.
 
