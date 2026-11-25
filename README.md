@@ -43,14 +43,23 @@ Las actividades publicadas incluyen fichas para explicar su propósito y la evid
 
 ## HomeLab y NAS
 
-Estoy construyendo un laboratorio doméstico sobre una Dell reutilizada con **Debian 13**. El NAS integra almacenamiento SMB/NFS, Docker, Nextcloud, páginas de laboratorio y acceso remoto privado con Tailscale.
+### Jokxer HomeLab · infraestructura, nube privada y recuperación
 
-En noviembre de 2026 el proyecto avanzó a la automatización de respaldos y a probar la recuperación aislada de Nextcloud. Ya se generaron y verificaron copias de la base de datos y los archivos, y se validó parte del flujo de restauración. La recuperación integral sigue en curso: falta verificar las tablas restauradas, completar una prueba de interrupción y reiniciar el servicio de forma controlada. Nextcloud permanece pensado para acceso privado, sin exposición directa a Internet.
+Estoy construyendo un NAS y laboratorio doméstico sobre una Dell reutilizada con **Debian 13**. Integra almacenamiento en red, Docker, Nextcloud, servicios web de prueba y acceso remoto privado con Tailscale.
 
-La prioridad es demostrar que los datos y el servicio se pueden recuperar antes de ampliar el laboratorio. La distribución LVM del SSD de 2 TB se conserva intacta; el disco de laboratorio de 1 TB tiene un antecedente de sectores pendientes y no se usa para datos críticos.
+**Avances destacados**
 
-- [Resumen público del HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview)
-- [Repositorio privado y documentación técnica](https://github.com/jokxer8/Jokxer-HomeLab)
+- Instalé y configuré el host, SSH, Ethernet y un firewall restrictivo.
+- Desplegué SMB/NFS, Docker y Nextcloud con MariaDB y Redis.
+- Probé HTTPS local, acceso remoto privado y sincronización bidireccional con Windows.
+- Generé respaldos de archivos y base de datos, y preparé una restauración aislada con verificaciones de integridad.
+
+**Estado actual:** la recuperación de Nextcloud sigue en validación. La restauración SQL terminó en el paso 262 y el paso 263 revisa las tablas. Aún falta completar la prueba de interrupción, reiniciar la aplicación de forma controlada y establecer una copia independiente del NAS.
+
+La seguridad guía las decisiones: Nextcloud permanece privado, las pruebas se aíslan de producción, se conservan intactos el SSD/LVM de 2 TB y el disco de 1 TB con sectores pendientes no se usa para datos críticos.
+
+- [Resumen público con avances y estado](https://github.com/jokxer8/Jokxer-HomeLab-Overview)
+- [Documentación técnica completa](https://github.com/jokxer8/Jokxer-HomeLab)
 
 ## Sitio web
 
