@@ -2,15 +2,15 @@
 
 <h1 align="center"><img src="assets/readme-banners/perfil.svg" alt="Kelvin César Del Castillo Torres" width="100%"></h1>
 
-### Desarrollo de software y análisis de datos (Software & Data Developer)
+### Software, datos y coordinación de proyectos tecnológicos
 
-**Software, datos y proyectos aplicados al aprendizaje y al trabajo.**
+Explora mis proyectos, el trabajo que realicé y la evidencia que respalda cada resultado.
 
-![Perfil](https://img.shields.io/badge/Perfil-Desarrollador%20Junior-2563EB?style=for-the-badge)
-![Formación](https://img.shields.io/badge/Formaci%C3%B3n-PUCMM-7C3AED?style=for-the-badge)
-![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Rep%C3%BAblica%20Dominicana-059669?style=for-the-badge)
+![Perfil: Desarrollador junior](https://img.shields.io/badge/Perfil-Desarrollador%20junior-1E3A5F?style=for-the-badge)
+![Formación: PUCMM](https://img.shields.io/badge/Formaci%C3%B3n-PUCMM-176754?style=for-the-badge)
+![Evidencia: Proyectos documentados](https://img.shields.io/badge/Evidencia-Proyectos%20documentados-3A4B63?style=for-the-badge)
 
-[Portafolio académico](https://github.com/jokxer8/soluciones-programacion-academica) · [Sitio web](https://jokxer.dev/) · [LinkedIn](https://www.linkedin.com/in/jokxer/) · [Contacto](mailto:kelvincesar@jokxer.dev)
+[🎓 Portafolio académico](#mi-recorrido-académico) · [🧰 HomeLab](#homelab-y-nas) · [💼 Experiencia](#experiencia) · [✉️ Contacto](#contacto)
 
 </div>
 
@@ -62,7 +62,7 @@ Estoy construyendo un NAS y laboratorio doméstico sobre una Dell reutilizada co
 - Probé HTTPS local, acceso remoto privado y sincronización bidireccional con Windows.
 - Implementé respaldos con verificación SHA-256 y validé una restauración incremental aislada, incluida la lectura y escritura de archivos.
 
-**Estado actual:** probé la recuperación de Nextcloud tras una interrupción y un reinicio del NAS. Verifiqué una copia independiente del respaldo. El primer ciclo programado no terminó; quedan por validar la corrección de la programación y la restauración desde esa copia.
+**Estado actual:** probé la recuperación de Nextcloud tras una interrupción y un reinicio del NAS. Verifiqué una copia independiente del respaldo. Tras el fallo inicial del temporizador, la corrección pasó una prueba controlada y un respaldo iniciado manualmente. Quedan por confirmar el ciclo programado y la restauración desde esa copia.
 
 La seguridad guía las decisiones: Nextcloud permanece privado, las pruebas se aíslan de producción, se conservan intactos el SSD/LVM de 2 TB y el disco de 1 TB con sectores pendientes no se usa para datos críticos.
 
