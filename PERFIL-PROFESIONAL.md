@@ -38,6 +38,7 @@ Leo el avance por hito: **Diseñado** (plan o modelo), **Implementado** (soluci�
 | Si buscas… | Empieza por… |
 |---|---|
 | 🎓 Aprender | [Ruta académica 00–15](https://github.com/jokxer8/soluciones-programacion-academica): 11 de 16 materias documentadas. |
+| 📘 Practicar sin terminal | [En palabras simples](https://github.com/jokxer8/guias-en-palabras-simples): guías visuales en español. Empieza por [GitHub desde cero](https://github.com/jokxer8/guias-en-palabras-simples/tree/main/github). |
 | 🧰 Explorar proyectos técnicos | [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview) y [proyectos de software](#proyectos-que-puedes-explorar), con avances y pruebas. |
 | 🏰 Explorar el Castillo | [Recorrido visual](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/castillo.md) y [guías para jugar o montar un servidor propio](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/README.md). |
 | 💼 Evaluar mi trabajo profesional | [Experiencia](#experiencia), [portafolio web](https://github.com/jokxer8/Jokxer-Portfolio-Showcase) y [LinkedIn](https://www.linkedin.com/in/jokxer/). |

@@ -4,7 +4,7 @@
 
 ### Desarrollo de software · Datos · Coordinación de proyectos tecnológicos
 
-[Proyectos y evidencia](#proyectos-y-evidencia) · [Experiencia](#experiencia) · [Perfil detallado](PERFIL-PROFESIONAL.md) · [Contacto](#contacto)
+[Proyectos y evidencia](#proyectos-y-evidencia) · [Guías visuales](#guías-visuales-en-palabras-simples) · [Experiencia](#experiencia) · [Perfil detallado](PERFIL-PROFESIONAL.md) · [Contacto](#contacto)
 
 </div>
 
@@ -40,6 +40,10 @@ También apoyé la participación de **27 estudiantes** en el CodeJam de PUCMM S
 
 - [Software y datos](PERFIL-PROFESIONAL.md#proyectos-que-puedes-explorar) · [Portafolio web](https://jokxer.dev/)
 - [HomeLab y NAS](#homelab-y-nas) · [Portal académico](#portal-académico-de-la-dra-mu-kien-sang-ben) · [Castillo Jokxer](#castillo-jokxer)
+
+### Guías visuales «En palabras simples»
+
+Creé [En palabras simples](https://github.com/jokxer8/guias-en-palabras-simples) para explicar tareas técnicas con pasos breves, ejemplos ilustrados y una forma de comprobar el resultado. La primera ruta, [GitHub desde cero](https://github.com/jokxer8/guias-en-palabras-simples/tree/main/github), enseña a crear un repositorio con README y registrar una tarea con un issue, sin usar la terminal.
 
 ### Mi recorrido académico
 
