@@ -10,7 +10,7 @@ Explora mis proyectos, el trabajo que realicé y la evidencia que respalda cada 
 ![Formación: PUCMM](https://img.shields.io/badge/Formaci%C3%B3n-PUCMM-176754?style=for-the-badge)
 ![Evidencia: Proyectos documentados](https://img.shields.io/badge/Evidencia-Proyectos%20documentados-3A4B63?style=for-the-badge)
 
-[🧪 Proyectos y evidencia](#proyectos-y-evidencia) · [🎓 Portafolio académico](#mi-recorrido-académico) · [🧰 HomeLab](#homelab-y-nas) · [🏰 Castillo Jokxer](#castillo-jokxer) · [🌐 Sitio web](#sitio-web-y-jokxer-collaborators) · [💼 Experiencia](#experiencia) · [✉️ Contacto](#contacto)
+[🧪 Proyectos y evidencia](#proyectos-y-evidencia) · [🎓 Portafolio académico](#mi-recorrido-académico) · [🧰 HomeLab](#homelab-y-nas) · [📚 Portal académico](#portal-académico-de-la-dra-mu-kien-sang-ben) · [🏰 Castillo Jokxer](#castillo-jokxer) · [🌐 Sitio web](#sitio-web-y-jokxer-collaborators) · [💼 Experiencia](#experiencia) · [✉️ Contacto](#contacto)
 
 </div>
 
@@ -83,7 +83,14 @@ Estoy construyendo un NAS y laboratorio doméstico sobre una Dell reutilizada co
 
 La seguridad guía las decisiones: Nextcloud permanece privado, las pruebas se aíslan de producción, se conservan intactos el SSD/LVM de 2 TB y el disco de 1 TB con sectores pendientes no se usa para datos críticos.
 
+- [Plan maestro del HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/PLAN-MAESTRO.md) · [Guía sencilla](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/EN-PALABRAS-SIMPLES.md)
 - [Resumen público con avances y estado](https://github.com/jokxer8/Jokxer-HomeLab-Overview) · [Arquitectura](https://github.com/jokxer8/Jokxer-HomeLab-Overview#infraestructura-desplegada) · [Catálogo de servicios](https://github.com/jokxer8/Jokxer-HomeLab-Overview#catálogo-de-servicios) · [Pruebas de respaldo](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/resultados-de-respaldo.md)
+
+## Portal académico de la Dra. Mu-kien Sang Ben
+
+Primer proyecto de terceros alojado en Jokxer HomeLab. La portada provisional respondió por HTTPS en el corte documentado. El portal completo sigue en desarrollo: trayectoria, biblioteca con materiales autorizados, proyectos, equipo y contacto.
+
+[Ver la portada provisional](https://mukien.jokxer.dev/) · [Caso público](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview) · [Plan maestro](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview/blob/main/PLAN-MAESTRO.md) · [Evidencia](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview/blob/main/docs/avances.md) · [Guía sencilla](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview/blob/main/EN-PALABRAS-SIMPLES.md)
 
 ## Castillo Jokxer
 
