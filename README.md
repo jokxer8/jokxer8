@@ -8,25 +8,33 @@
 
 </div>
 
-Trabajo en la intersección entre **software, datos y coordinación**: organizo información, traduzco necesidades operativas en requisitos y documento lo que las pruebas demuestran. Trabajo con **C#, SQL, Power BI, Linux y Docker**. Me interesan roles de desarrollo de software, análisis de datos y coordinación tecnológica.
+## Resumen ejecutivo
+
+Combino **desarrollo de software, análisis de datos y coordinación de proyectos tecnológicos**. Convierto necesidades operativas en requisitos, organizo información para que otros puedan usarla y documento las pruebas que respaldan cada entrega. Mi experiencia reúne trabajo institucional, investigación aplicada y proyectos propios de software e infraestructura.
+
+- **Software y datos:** C#, SQL, Power BI y Excel para desarrollar soluciones, estructurar datos y comunicar resultados.
+- **Infraestructura:** Linux, Docker y Nextcloud para desplegar servicios y probar que se pueden recuperar desde una copia.
+- **Coordinación:** seguimiento de entregas, documentación de procesos y validación de necesidades con equipos técnicos.
 
 ## Proyectos y evidencia
 
-| Proyecto | Nivel del hito | Resultado verificable | Siguiente hito |
-|---|---|---|---|
-| 🏨 [Reservas de Hotel](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/06-bases-de-datos/hotel-reservas-proyecto-final) | **Validado en pruebas** | [79 de 79 pruebas funcionales correctas](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/06-bases-de-datos/hotel-reservas-proyecto-final/docs/PRUEBAS-FUNCIONALES.md) en la revisión documentada del 16 de octubre de 2026. | Probar concurrencia entre operadores y completar un recorrido visual. |
-| 🧰 [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview#resultados-verificables) | **Operativo** · nube, respaldo diario y piloto de hosting | Primer respaldo diario automático de Nextcloud tras el ajuste; restauración aislada de una web de muestra y copia integral de hosting verificada. | [Validar hosting programado y exportaciones semanales](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/resultados-de-respaldo.md#qué-falta-validar). |
-| 📚 [Portal de la Dra. Mu-kien Sang Ben](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview) | **Portada provisional publicada** | Primer sitio de terceros alojado en HomeLab; HTTPS validado. | Desarrollar y revisar trayectoria, biblioteca, proyectos, equipo y contacto. |
+| Proyecto | Qué hice y qué se comprobó |
+|---|---|
+| 🏨 [Reservas de Hotel](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/06-bases-de-datos/hotel-reservas-proyecto-final) | Desarrollé un sistema de reservas y validé su funcionamiento en laboratorio: [79 de 79 pruebas funcionales](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/06-bases-de-datos/hotel-reservas-proyecto-final/docs/PRUEBAS-FUNCIONALES.md) correctas en la revisión documentada. No equivale a un despliegue real. |
+| 🧰 [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview#resultados-verificables) | Monté una nube privada y probé su continuidad: respaldo diario de Nextcloud tras el ajuste y restauración aislada de un sitio de muestra. |
+| 📚 [Portal de la Dra. Mu-kien Sang Ben](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview) | Desplegué la primera portada de terceros en HomeLab y comprobé el acceso por HTTPS. El portal completo sigue en desarrollo. |
 
 [Ver más casos, aportes y límites de las pruebas](PERFIL-PROFESIONAL.md#proyectos-y-evidencia).
 
 ## Experiencia
 
 - **Ministerio de Interior y Policía · Reforma Educativa Policial:** apoyo técnico, documental y logístico; contribuí a organizar **más de 1.000 documentos** y a coordinar **tres eventos de alto nivel**.
-- **PUCMM · Centro de Estudios Caribeños:** estructuro fuentes y datos de investigación y preparo diagramas y recursos visuales.
+- **PUCMM · Centro de Estudios Caribeños:** depuro y estructuro fuentes, preparo bases de datos y creo diagramas y recursos visuales para investigaciones sobre el Caribe y la historia institucional dominicana.
 - **IPES · Admisión y Registro:** coordinación funcional, seguimiento de fases y validación de necesidades con el equipo técnico; Admisión funcional según el corte documentado, Registro en desarrollo.
 
-**Formación:** Ingeniería en Ciencias de la Computación, PUCMM (en curso). [Formación y tecnologías](PERFIL-PROFESIONAL.md#tecnologías-y-herramientas).
+También apoyé la participación de **27 estudiantes** en el CodeJam de PUCMM Santiago y redacté los estatutos del comité de Ciencias de la Computación. [Trayectoria y responsabilidades](PERFIL-PROFESIONAL.md#experiencia).
+
+**Formación:** Ingeniería en Ciencias de la Computación, PUCMM (en curso). Me interesan oportunidades en desarrollo de software, análisis de datos y coordinación tecnológica. [Formación y tecnologías](PERFIL-PROFESIONAL.md#tecnologías-y-herramientas).
 
 ## Explora mi trabajo
 
@@ -39,17 +47,25 @@ Trabajo en la intersección entre **software, datos y coordinación**: organizo 
 
 ### HomeLab y NAS
 
-[Arquitectura](https://github.com/jokxer8/Jokxer-HomeLab-Overview) · [Plan maestro](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/PLAN-MAESTRO.md) · [Evidencia de respaldo](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/resultados-de-respaldo.md) · [Guía sencilla](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/EN-PALABRAS-SIMPLES.md)
+Sobre Debian, separé el acceso privado a Nextcloud del alojamiento público de sitios. Una restauración aislada de Nextcloud escaneó **142 archivos en 24 carpetas sin errores** y permitió comprobar la lectura y escritura con un archivo de prueba. La recuperación desde un equipo vacío sigue pendiente.
+
+[Arquitectura](https://github.com/jokxer8/Jokxer-HomeLab-Overview) · [Plan maestro](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/PLAN-MAESTRO.md) · [Evidencia de respaldo](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/resultados-de-respaldo.md) · [Guía sencilla](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/EN-PALABRAS-SIMPLES.md) · [Validaciones pendientes](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/resultados-de-respaldo.md#qué-falta-validar)
 
 ### Portal académico de la Dra. Mu-kien Sang Ben
+
+El proyecto reúne trayectoria, bibliografía, investigación y créditos del equipo. La **portada provisional** es el primer entregable; el plan separa el catálogo bibliográfico de los archivos cuya lectura necesita autorización.
 
 [Caso público](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview) · [Plan maestro](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview/blob/main/PLAN-MAESTRO.md) · [Evidencia](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview/blob/main/docs/avances.md) · [Guía sencilla](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview/blob/main/EN-PALABRAS-SIMPLES.md) · [Portada provisional](https://mukien.jokxer.dev/)
 
 ### Castillo Jokxer
 
+Proyecto en **Luanti** que combina construcción y documentación de un mundo jugable. El recorrido muestra el recinto y las edificaciones construidas; los planos conceptuales y las misiones pendientes están identificados por separado.
+
 [Documentación pública de Luanti](https://github.com/jokxer8/Jokxer-Luanti-Overview) · [Recorrido visual y construcciones](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/castillo.md)
 
 ### Sitio web y Jokxer Collaborators
+
+Mi sitio reúne proyectos y experiencia profesional. En el módulo privado de colaboradores verifiqué **3 de 5 flujos** con una cuenta de prueba: invitación, activación y acceso al panel. Recuperación y suspensión siguen pendientes de validación.
 
 [Sitio profesional](https://jokxer.dev/) · [Implementación y alcance de las pruebas](https://github.com/jokxer8/Jokxer-Portfolio-Showcase)
 
