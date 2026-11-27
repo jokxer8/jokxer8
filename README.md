@@ -21,7 +21,7 @@ Combino **desarrollo de software, análisis de datos y coordinación de proyecto
 | Proyecto | Qué hice y qué se comprobó |
 |---|---|
 | 🏨 [Reservas de Hotel](https://github.com/jokxer8/soluciones-programacion-academica/tree/main/06-bases-de-datos/hotel-reservas-proyecto-final) | Desarrollé un sistema de reservas y validé su funcionamiento en laboratorio: [79 de 79 pruebas funcionales](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/06-bases-de-datos/hotel-reservas-proyecto-final/docs/PRUEBAS-FUNCIONALES.md) correctas en la revisión documentada. No equivale a un despliegue real. |
-| 🧰 [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview#resultados-verificables) | Monté una nube privada y probé su continuidad: respaldo diario de Nextcloud tras el ajuste y restauración aislada de un sitio de muestra. |
+| 🧰 [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview#resultados-verificables) | Monté una nube privada y verifiqué una recuperación aislada. El [Control Center](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/control-center.md) ya tiene un motor de histórico probado en laboratorio; la primera pantalla privada sigue pendiente. |
 | 📚 [Portal de la Dra. Mu-kien Sang Ben](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview) | Desplegué la primera portada de terceros en HomeLab y comprobé el acceso por HTTPS. El portal completo sigue en desarrollo. |
 
 [Ver más casos, aportes y límites de las pruebas](PERFIL-PROFESIONAL.md#proyectos-y-evidencia).
@@ -53,7 +53,9 @@ Creé [En palabras simples](https://github.com/jokxer8/guias-en-palabras-simples
 
 Sobre Debian, separé el acceso privado a Nextcloud del alojamiento público de sitios. Una restauración aislada de Nextcloud escaneó **142 archivos en 24 carpetas sin errores** y permitió comprobar la lectura y escritura con un archivo de prueba. La recuperación desde un equipo vacío sigue pendiente.
 
-[Arquitectura](https://github.com/jokxer8/Jokxer-HomeLab-Overview) · [Plan maestro](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/PLAN-MAESTRO.md) · [Evidencia de respaldo](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/resultados-de-respaldo.md) · [Guía sencilla](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/EN-PALABRAS-SIMPLES.md) · [Validaciones pendientes](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/resultados-de-respaldo.md#qué-falta-validar)
+El **Control Center** separa una lectura reciente de un dato no disponible. Inventarié **219 identidades de métricas** y documenté las pruebas del histórico local. El próximo hito es ver el estado y una tendencia en una pantalla privada de solo lectura.
+
+[Arquitectura](https://github.com/jokxer8/Jokxer-HomeLab-Overview) · [Control Center](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/control-center.md) · [Plan maestro](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/PLAN-MAESTRO.md) · [Evidencia de respaldo](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/resultados-de-respaldo.md) · [Guía sencilla](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/EN-PALABRAS-SIMPLES.md) · [Validaciones pendientes](https://github.com/jokxer8/Jokxer-HomeLab-Overview/blob/main/resultados-de-respaldo.md#qué-falta-validar)
 
 ### Portal académico de la Dra. Mu-kien Sang Ben
 
