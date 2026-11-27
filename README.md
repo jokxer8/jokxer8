@@ -43,11 +43,11 @@ También apoyé la participación de **27 estudiantes** en el CodeJam de PUCMM S
 
 ### Guías visuales «En palabras simples»
 
-Creé [En palabras simples](https://github.com/jokxer8/guias-en-palabras-simples) para explicar tareas técnicas con pasos breves, ejemplos ilustrados y una forma de comprobar el resultado. La primera ruta, [GitHub desde cero](https://github.com/jokxer8/guias-en-palabras-simples/tree/main/github), enseña a crear un repositorio con README y registrar una tarea con un issue, sin usar la terminal.
+Creé [En palabras simples](https://github.com/jokxer8/guias-en-palabras-simples) para explicar tareas técnicas con pasos breves, ejemplos ilustrados y una forma de comprobar el resultado. La primera ruta, [GitHub desde cero](https://github.com/jokxer8/guias-en-palabras-simples/tree/main/github), ya recorre un ejercicio completo: crear un repositorio, abrir una tarea, guardar un cambio y [revisarlo y fusionarlo desde una rama](https://github.com/jokxer8/guias-en-palabras-simples/blob/main/github/04-ramas-y-pull-requests.md), sin usar la terminal.
 
 ### Mi recorrido académico
 
-[Portafolio didáctico](https://github.com/jokxer8/soluciones-programacion-academica): 11 de 16 materias documentadas, con entregas, explicaciones y evidencias.
+[Portafolio didáctico](https://github.com/jokxer8/soluciones-programacion-academica): 11 de 16 materias documentadas, con entregas, explicaciones y evidencias. [Plan Maestro: alcance y próximos hitos](https://github.com/jokxer8/soluciones-programacion-academica/blob/main/PLAN-MAESTRO.md).
 
 ### HomeLab y NAS
 

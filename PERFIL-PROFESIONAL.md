@@ -38,7 +38,7 @@ Leo el avance por hito: **Diseñado** (plan o modelo), **Implementado** (soluci�
 | Si buscas… | Empieza por… |
 |---|---|
 | 🎓 Aprender | [Ruta académica 00–15](https://github.com/jokxer8/soluciones-programacion-academica): 11 de 16 materias documentadas. |
-| 📘 Practicar sin terminal | [En palabras simples](https://github.com/jokxer8/guias-en-palabras-simples): guías visuales en español. Empieza por [GitHub desde cero](https://github.com/jokxer8/guias-en-palabras-simples/tree/main/github). |
+| 📘 Practicar sin terminal | [En palabras simples](https://github.com/jokxer8/guias-en-palabras-simples): guías visuales en español. Empieza por [GitHub desde cero](https://github.com/jokxer8/guias-en-palabras-simples/tree/main/github). El [capítulo sobre ramas y pull requests](https://github.com/jokxer8/guias-en-palabras-simples/blob/main/github/04-ramas-y-pull-requests.md) muestra cómo revisar y cerrar la práctica completa. |
 | 🧰 Explorar proyectos técnicos | [HomeLab](https://github.com/jokxer8/Jokxer-HomeLab-Overview) y [proyectos de software](#proyectos-que-puedes-explorar), con avances y pruebas. |
 | 🏰 Explorar el Castillo | [Recorrido visual](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/castillo.md) y [guías para jugar o montar un servidor propio](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/docs/README.md). |
 | 💼 Evaluar mi trabajo profesional | [Experiencia](#experiencia), [portafolio web](https://github.com/jokxer8/Jokxer-Portfolio-Showcase) y [LinkedIn](https://www.linkedin.com/in/jokxer/). |
@@ -96,6 +96,8 @@ Primer proyecto de terceros alojado en Jokxer HomeLab. La portada provisional re
 [Ver la portada provisional](https://mukien.jokxer.dev/) · [Caso público](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview) · [Plan maestro](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview/blob/main/PLAN-MAESTRO.md) · [Evidencia](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview/blob/main/docs/avances.md) · [Guía sencilla](https://github.com/jokxer8/Portal-Mukien-Sang-Ben-Overview/blob/main/EN-PALABRAS-SIMPLES.md)
 
 ## Castillo Jokxer
+
+[Plan Maestro de Castillo Jokxer: fases y próximos hitos](https://github.com/jokxer8/Jokxer-Luanti-Overview/blob/main/PLAN-MAESTRO.md).
 
 Diseñé y construí un castillo costero para un mundo cooperativo de supervivencia. La primera etapa del servidor fue Minecraft Java con Fabric; el mundo del recorrido está documentado en **Luanti con Mineclonia**. La biblioteca, el almacén y la sala de trofeos se pueden ver en capturas del juego. La Sala de Mapas sigue en diseño.
 
